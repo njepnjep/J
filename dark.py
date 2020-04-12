@@ -32,8 +32,8 @@ logo = """ \x1b[1;97m█████████
  \x1b[1;97m█████████        \x1b[1;96m«----------✧----------»
  \x1b[1;97m ██ ██
  \x1b[1;97m╔════════════════════════════════════════════╗
- \x1b[1;97m║ \x1b[1;93m* \x1b[1;97mAuthor \x1b[1;91m: \x1b[1;96mMaulana gans      \x1b[1;97m                   ║
- \x1b[1;97m║ \x1b[1;93m* \x1b[1;97mYoutube \x1b[1;91m: \x1b[1;92m\x1b[44m Maulana Gans \x1b[0m\x1b[1;97m║
+ \x1b[1;97m║ \x1b[1;93m* \x1b[1;97mAuthor \x1b[1;91m: \x1b[1;96mJeffri ganteng wkwkw      \x1b[1;97m                   ║
+ \x1b[1;97m║ \x1b[1;93m* \x1b[1;97mYoutube \x1b[1;91m: \x1b[1;92m\x1b[44m NjepNjep \x1b[0m\x1b[1;97m║
  \x1b[1;97m╚════════════════════════════════════════════╝"""
  
  
